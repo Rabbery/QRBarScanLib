@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">zbarlib</string>
+    <string name="scan_tips">对准条码后前后移动，即可自动扫描</string>
+</resources>
